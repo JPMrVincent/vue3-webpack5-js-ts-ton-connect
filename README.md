@@ -1,4 +1,4 @@
-# vue3-webpack5-js-ts-tonconnect
+# vue3-webpack5-js-ts-ton-connect
 
 ### Description
     This is a demo for vue3, webpack5, JS writing, TS parsing.
